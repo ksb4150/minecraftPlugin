@@ -1,0 +1,4 @@
+name: minecraftProject
+version: '${version}'
+main: com.firstminecraft.firstminecraftpluginbysub.MinecraftProject
+api-version: '1.20'
